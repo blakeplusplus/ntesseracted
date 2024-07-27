@@ -6,5 +6,6 @@
 ## Links
 
 [My N++ Stats](https://docs.google.com/spreadsheets/d/1Ct0iyqf-jV19l8dt7e2mN-OtqihQ-Avn4nC6WA6cOUw/edit?usp=sharing)\
-[N++ Assistant](https://github.com/psenough/NPlusPlusAssistant/)
-[N++ Palette Creator](https://edelkas.github.io/npc-web/)
+[N++ Assistant](https://github.com/psenough/NPlusPlusAssistant/)\
+[N++ Palette Creator](https://edelkas.github.io/npc-web/)\
+[N++ Video Library](https://docs.google.com/spreadsheets/d/12Os50amv9nSHR3u5sDqKiwDk1eRUY5lYLzyLgEUsldQ/edit?usp=sharing)
