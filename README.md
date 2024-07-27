@@ -1,7 +1,7 @@
 # Setup
-* [Follow this guide for loc.txt.](https://steamcommunity.com/sharedfiles/filedetails/?id=3266759653)\
-* Drop the contents of "withdraw" into common/N++/NPP/Sounds/ to use my soundpack. It's similar to the regular game but a lot more toned down and relaxed. A lot of sounds are made silent while some are swapped for quieter but similar sounds.\
-* Run the AHK file with AutoHotKey while the game is running to have an extra button for jump and for pausing (if you need to pause buffer).
+* [Follow this guide for loc.txt.](https://steamcommunity.com/sharedfiles/filedetails/?id=3266759653)
+* Drop the contents of "withdraw" into common/N++/NPP/Sounds/ to use my soundpack. It's similar to the regular game but a lot more toned down and relaxed. A lot of sounds are made silent while some are swapped for quieter but similar sounds.
+* Run the AHK file with AutoHotKey while the game is running to have an extra button for jump and for pausing (if you need to pause buffer)
 
 ## Links
 
